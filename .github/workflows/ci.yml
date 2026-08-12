@@ -1,0 +1,39 @@
+# CI pipeline: on every push/PR, generate data, train the model, build the
+# retrieval index, then run the full test suite. This is what "the tests actually
+# ran, not just exist" looks like — a green check on GitHub, not a claim in a README.
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate data
+        run: python data/generate_data.py
+
+      - name: Train model and build retrieval index
+        run: |
+          python train.py
+          python -c "from src.retriever import build_index; build_index('data/comments.csv')"
+
+      - name: Run tests
+        run: python -m pytest tests/ -v
+
+      - name: Lint (non-blocking)
+        run: pip install ruff && ruff check . --exit-zero
