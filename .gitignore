@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+mlruns/
+mlflow.db
+models/*.joblib
+models/*.faiss
+models/retriever_docs.json
+models/prediction_log.csv
+models/current_metrics.json
+.streamlit/
+*.egg-info/
+.venv/
+venv/
+.env
