@@ -1,0 +1,22 @@
+# Containerizes the Streamlit dashboard separately from the API (api/Dockerfile) —
+# in a real deployment these scale independently (the API might get hit by many
+# services; the dashboard is a handful of humans), so it's worth keeping them as
+# separate images even though the code shares src/. Same caveat as Dockerfile:
+# written to standard practice but not build-tested here (no Docker daemon
+# available in the build environment).
+FROM python:3.10-slim
+
+WORKDIR /app
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY src/ src/
+COPY dashboard/ dashboard/
+COPY data/ data/
+COPY train.py .
+
+RUN python train.py
+
+EXPOSE 8501
+CMD ["streamlit", "run", "dashboard/app.py", "--server.address=0.0.0.0", "--server.port=8501"]

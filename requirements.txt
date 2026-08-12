@@ -1,0 +1,19 @@
+pandas==2.3.3
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.7.2
+joblib==1.5.3
+faiss-cpu==1.15.0
+mlflow==3.15.1
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.0
+streamlit==1.61.1
+pytest==9.1.1
+httpx>=0.27.0
+
+# Optional — only needed if you enable live LLM generation (see README "Level up")
+# openai>=1.0.0
+
+# Optional — only needed to fetch real comments from YouTube (see src/youtube_fetcher.py)
+# google-api-python-client>=2.100.0

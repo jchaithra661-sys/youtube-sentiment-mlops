@@ -1,0 +1,9 @@
+{
+  "avg_comment_length_words": 10.572289156626505,
+  "sentiment_distribution": {
+    "positive": 0.361,
+    "negative": 0.361,
+    "neutral": 0.277
+  },
+  "n_reference_samples": 166
+}

@@ -1,0 +1,167 @@
+text,sentiment_label,video_category,timestamp,likes
+Really appreciate how much effort went into your setup.,positive,tutorial,2026-07-10T05:48:28.789424,485
+"the new update is honestly kind of confusing, could use more detail.",negative,tech_news,2026-07-07T07:48:28.789424,49
+"I've watched this three times now, so well explained.",positive,gaming,2026-07-18T05:48:28.789424,25
+Is there a written version of this tutorial somewhere?,neutral,music_video,2026-07-21T22:48:28.789424,8
+What software did you use for your setup?,neutral,music_video,2026-07-23T00:48:28.789424,13
+"Wow, this tutorial is next level honestly, great work!",positive,tutorial,2026-07-15T16:48:28.789424,248
+"This is exactly what I needed ngl, thank you so much for explaining your setup so clearly!",positive,vlog,2026-07-20T04:48:28.789424,262
+"This is exactly what I needed honestly, thank you so much for explaining this build so clearly!",positive,tutorial,2026-07-25T18:48:28.789424,171
+"Please stop dragging out your explanation, just get to the point.",negative,tutorial,2026-07-22T23:48:28.789424,34
+"The thumbnail is misleading, this isn't what this build is about.",negative,gaming,2026-07-21T09:48:28.789424,7
+"Please stop dragging out the editing, just get to the point.",negative,tutorial,2026-07-23T01:48:28.789424,11
+Where can I find the source code you mentioned?,neutral,gaming,2026-07-11T03:48:28.789424,35
+"Wow, the editing is next level ngl, great work!",positive,tech_news,2026-07-08T09:48:28.789424,298
+"This is exactly what I needed ngl, thank you so much for explaining this tutorial so clearly!",positive,gaming,2026-08-02T11:48:28.789424,285
+"this build keeps getting better every episode, love it.",positive,gaming,2026-07-23T12:48:28.789424,161
+"The audio is way too quiet tbh, had to max out my volume the whole video.",negative,tutorial,2026-08-05T08:48:28.789424,48
+Is the editing still relevant with the latest update?,neutral,tutorial,2026-07-13T07:48:28.789424,13
+"Not a fan of the recent changes to your explanation, felt rushed.",negative,music_video,2026-08-05T01:48:28.789424,4
+"The audio is way too quiet ngl, had to max out my volume the whole video.",negative,tech_news,2026-07-23T23:48:28.789424,29
+Is this tutorial still relevant with the latest update?,neutral,vlog,2026-07-29T19:48:28.789424,37
+Is there a written version of your explanation somewhere?,neutral,gaming,2026-07-19T03:48:28.789424,47
+"This made my day, genuinely hilarious and well made.",positive,music_video,2026-08-03T20:48:28.789424,214
+"this tutorial is honestly kind of confusing, could use more detail.",negative,music_video,2026-07-07T22:48:28.789424,19
+Really appreciate how much effort went into the audio mix.,positive,product_review,2026-07-18T13:48:28.789424,353
+Really appreciate how much effort went into this build.,positive,gaming,2026-07-25T02:48:28.789424,490
+"Really disappointed honestly, expected way more detail on your explanation.",negative,tutorial,2026-07-11T16:48:28.789424,25
+How long did this tutorial take you to put together?,neutral,vlog,2026-08-05T00:48:28.789424,22
+"Not a fan of the recent changes to the intro, felt rushed.",negative,product_review,2026-07-21T03:48:28.789424,0
+"Really disappointed, expected way more detail on the new update.",negative,tech_news,2026-07-13T15:48:28.789424,50
+"The thumbnail is misleading, this isn't what the new update is about.",negative,vlog,2026-07-11T17:48:28.789424,36
+"Really disappointed honestly, expected way more detail on this build.",negative,tech_news,2026-07-16T01:48:28.789424,24
+"Not a fan of the recent changes to the audio mix, felt rushed.",negative,tech_news,2026-07-24T20:48:28.789424,16
+"Really disappointed tbh, expected way more detail on this series.",negative,music_video,2026-07-07T04:48:28.789424,41
+Can you do a follow-up video on the advanced settings?,neutral,music_video,2026-07-25T15:48:28.789424,12
+"Please stop dragging out the intro, just get to the point.",negative,tech_news,2026-07-15T06:48:28.789424,26
+"Really disappointed, expected way more detail on this series.",negative,vlog,2026-07-22T17:48:28.789424,39
+Is there a written version of this build somewhere?,neutral,music_video,2026-08-02T03:48:28.789424,45
+"Wow, the new update is next level ngl, great work!",positive,music_video,2026-07-16T14:48:28.789424,388
+How long did your setup take you to put together?,neutral,product_review,2026-08-05T10:48:28.789424,27
+"Really disappointed tbh, expected way more detail on the audio mix.",negative,vlog,2026-07-24T08:48:28.789424,22
+What software did you use for your explanation?,neutral,tutorial,2026-07-13T01:48:28.789424,12
+"Really disappointed, expected way more detail on your setup.",negative,product_review,2026-07-18T10:48:28.789424,42
+What software did you use for the new update?,neutral,tech_news,2026-07-08T02:48:28.789424,26
+"Wow, the pacing is next level tbh, great work!",positive,tech_news,2026-07-12T13:48:28.789424,253
+"Really disappointed, expected way more detail on the intro.",negative,product_review,2026-07-29T07:48:28.789424,32
+"This is exactly what I needed tbh, thank you so much for explaining this build so clearly!",positive,tech_news,2026-07-28T17:48:28.789424,309
+"Finally a video that actually works honestly, thank you!",positive,gaming,2026-08-02T16:48:28.789424,100
+"your setup is honestly kind of confusing, could use more detail.",negative,vlog,2026-08-01T17:48:28.789424,43
+"The thumbnail is misleading, this isn't what the pacing is about.",negative,tech_news,2026-07-20T10:48:28.789424,10
+"your explanation is honestly kind of confusing, could use more detail.",negative,vlog,2026-07-07T18:48:28.789424,48
+How long did this series take you to put together?,neutral,product_review,2026-07-31T16:48:28.789424,26
+What software did you use for the intro?,neutral,tutorial,2026-07-16T11:48:28.789424,36
+"This is exactly what I needed, thank you so much for explaining your setup so clearly!",positive,tech_news,2026-07-27T14:48:28.789424,119
+"Please stop dragging out your setup, just get to the point.",negative,vlog,2026-08-03T03:48:28.789424,46
+"Wow, this tutorial is next level, great work!",positive,gaming,2026-08-01T05:48:28.789424,412
+"Wow, the audio mix is next level honestly, great work!",positive,gaming,2026-07-07T08:48:28.789424,20
+"The thumbnail is misleading, this isn't what the editing is about.",negative,gaming,2026-07-10T07:48:28.789424,13
+"the editing is honestly kind of confusing, could use more detail.",negative,music_video,2026-07-15T16:48:28.789424,27
+The click-bait title got me but this series doesn't deliver.,negative,music_video,2026-07-07T13:48:28.789424,3
+How long did the audio mix take you to put together?,neutral,tech_news,2026-07-21T22:48:28.789424,21
+"This is exactly what I needed honestly, thank you so much for explaining the intro so clearly!",positive,vlog,2026-08-02T18:48:28.789424,25
+"This is exactly what I needed, thank you so much for explaining the new update so clearly!",positive,product_review,2026-07-30T09:48:28.789424,56
+Is there a written version of your setup somewhere?,neutral,music_video,2026-07-08T01:48:28.789424,44
+"the new update keeps getting better every episode, love it.",positive,tutorial,2026-08-03T05:48:28.789424,72
+Really appreciate how much effort went into your explanation.,positive,music_video,2026-07-18T22:48:28.789424,109
+"Really disappointed, expected way more detail on this build.",negative,tutorial,2026-08-03T00:48:28.789424,34
+You explained the pacing better than my actual course did.,positive,vlog,2026-07-21T03:48:28.789424,409
+What software did you use for this build?,neutral,vlog,2026-08-04T02:48:28.789424,40
+"This is exactly what I needed honestly, thank you so much for explaining the pacing so clearly!",positive,music_video,2026-07-21T02:48:28.789424,218
+What software did you use for the pacing?,neutral,tutorial,2026-07-07T11:48:28.789424,13
+Is there a written version of this series somewhere?,neutral,gaming,2026-07-31T16:48:28.789424,26
+Is there a written version of the new update somewhere?,neutral,product_review,2026-07-25T07:48:28.789424,28
+"Wow, the editing is next level, great work!",positive,vlog,2026-07-16T00:48:28.789424,220
+"Really disappointed honestly, expected way more detail on the editing.",negative,gaming,2026-07-17T14:48:28.789424,16
+"Not a fan of the recent changes to the new update, felt rushed.",negative,product_review,2026-07-29T20:48:28.789424,0
+Is the new update still relevant with the latest update?,neutral,vlog,2026-07-29T15:48:28.789424,6
+"Wow, this build is next level ngl, great work!",positive,gaming,2026-07-17T12:48:28.789424,62
+Is there a written version of the editing somewhere?,neutral,vlog,2026-07-10T07:48:28.789424,19
+What software did you use for this tutorial?,neutral,gaming,2026-07-23T01:48:28.789424,37
+The click-bait title got me but the pacing doesn't deliver.,negative,tutorial,2026-07-17T22:48:28.789424,34
+The click-bait title got me but the editing doesn't deliver.,negative,vlog,2026-07-30T21:48:28.789424,23
+Is there a written version of the intro somewhere?,neutral,product_review,2026-07-10T04:48:28.789424,32
+"The audio is way too quiet honestly, had to max out my volume the whole video.",negative,music_video,2026-07-22T15:48:28.789424,3
+Really appreciate how much effort went into the intro.,positive,product_review,2026-07-26T03:48:28.789424,313
+Is there a written version of the audio mix somewhere?,neutral,music_video,2026-07-15T07:48:28.789424,40
+"Please stop dragging out this tutorial, just get to the point.",negative,tech_news,2026-07-25T06:48:28.789424,11
+"the intro keeps getting better every episode, love it.",positive,tech_news,2026-07-17T16:48:28.789424,150
+Is your setup still relevant with the latest update?,neutral,tutorial,2026-07-29T04:48:28.789424,0
+Is there a written version of the pacing somewhere?,neutral,tech_news,2026-07-17T07:48:28.789424,31
+"Please stop dragging out this series, just get to the point.",negative,music_video,2026-07-15T23:48:28.789424,47
+Do you have a video comparing this to the previous version?,neutral,gaming,2026-08-04T00:48:28.789424,28
+"This is exactly what I needed, thank you so much for explaining the editing so clearly!",positive,product_review,2026-07-20T00:48:28.789424,222
+"the editing keeps getting better every episode, love it.",positive,tech_news,2026-08-05T08:48:28.789424,230
+"Really disappointed, expected way more detail on the editing.",negative,vlog,2026-07-28T06:48:28.789424,40
+How long did the intro take you to put together?,neutral,tutorial,2026-07-22T16:48:28.789424,14
+Does this work on the older model too?,neutral,vlog,2026-07-16T16:48:28.789424,30
+What software did you use for the audio mix?,neutral,product_review,2026-08-01T22:48:28.789424,16
+Is the audio mix still relevant with the latest update?,neutral,product_review,2026-07-07T09:48:28.789424,20
+"Not a fan of the recent changes to the pacing, felt rushed.",negative,product_review,2026-07-28T04:48:28.789424,14
+"Really disappointed, expected way more detail on your explanation.",negative,product_review,2026-07-18T19:48:28.789424,28
+"This is exactly what I needed honestly, thank you so much for explaining this series so clearly!",positive,gaming,2026-07-31T15:48:28.789424,1
+Which microphone are you using for these videos?,neutral,product_review,2026-07-19T17:48:28.789424,5
+"The audio is way too quiet, had to max out my volume the whole video.",negative,vlog,2026-07-26T02:48:28.789424,4
+You explained the editing better than my actual course did.,positive,tech_news,2026-07-11T01:48:28.789424,489
+You explained this tutorial better than my actual course did.,positive,product_review,2026-07-27T23:48:28.789424,214
+"Wow, the intro is next level, great work!",positive,tutorial,2026-07-25T04:48:28.789424,36
+What software did you use for the editing?,neutral,vlog,2026-08-03T00:48:28.789424,49
+Really appreciate how much effort went into this series.,positive,tutorial,2026-07-08T06:48:28.789424,127
+"Best video on this topic I've found, subscribed immediately.",positive,vlog,2026-07-20T08:48:28.789424,373
+Really appreciate how much effort went into the editing.,positive,music_video,2026-07-22T13:48:28.789424,498
+"This is exactly what I needed tbh, thank you so much for explaining your explanation so clearly!",positive,product_review,2026-07-23T21:48:28.789424,46
+"This is exactly what I needed, thank you so much for explaining this build so clearly!",positive,vlog,2026-07-15T09:48:28.789424,366
+The click-bait title got me but your explanation doesn't deliver.,negative,tech_news,2026-07-29T14:48:28.789424,21
+"This is exactly what I needed, thank you so much for explaining this series so clearly!",positive,music_video,2026-07-13T07:48:28.789424,47
+"This channel deserves way more views, underrated content.",positive,music_video,2026-08-02T05:48:28.789424,327
+"Finally a video that actually works ngl, thank you!",positive,music_video,2026-07-17T08:48:28.789424,408
+"Wow, this build is next level, great work!",positive,tutorial,2026-07-16T19:48:28.789424,422
+What software did you use for this series?,neutral,gaming,2026-07-21T21:48:28.789424,6
+"The thumbnail is misleading, this isn't what the audio mix is about.",negative,product_review,2026-07-15T23:48:28.789424,45
+"Really disappointed honestly, expected way more detail on your setup.",negative,tutorial,2026-07-22T00:48:28.789424,29
+Really appreciate how much effort went into the pacing.,positive,music_video,2026-07-22T02:48:28.789424,200
+"This is outdated information, none of this works anymore.",negative,vlog,2026-07-24T08:48:28.789424,7
+"this series keeps getting better every episode, love it.",positive,tech_news,2026-07-13T21:48:28.789424,81
+How long did the new update take you to put together?,neutral,tutorial,2026-08-04T11:48:28.789424,29
+Is your explanation still relevant with the latest update?,neutral,gaming,2026-07-08T16:48:28.789424,25
+"This doesn't work at all, I followed every step and got an error.",negative,gaming,2026-07-25T01:48:28.789424,33
+Really appreciate how much effort went into the new update.,positive,music_video,2026-07-26T15:48:28.789424,214
+The click-bait title got me but the new update doesn't deliver.,negative,tutorial,2026-07-17T11:48:28.789424,3
+"Not a fan of the recent changes to this build, felt rushed.",negative,vlog,2026-07-17T12:48:28.789424,15
+"your setup keeps getting better every episode, love it.",positive,tech_news,2026-08-02T08:48:28.789424,205
+"Really disappointed tbh, expected way more detail on this tutorial.",negative,tutorial,2026-08-01T19:48:28.789424,7
+"Really disappointed honestly, expected way more detail on the audio mix.",negative,gaming,2026-07-28T14:48:28.789424,12
+You explained your explanation better than my actual course did.,positive,vlog,2026-07-07T10:48:28.789424,437
+"This is exactly what I needed, thank you so much for explaining the audio mix so clearly!",positive,music_video,2026-07-23T15:48:28.789424,66
+"the audio mix keeps getting better every episode, love it.",positive,product_review,2026-07-22T12:48:28.789424,312
+"The thumbnail is misleading, this isn't what this series is about.",negative,vlog,2026-07-27T09:48:28.789424,14
+"Wow, the intro is next level honestly, great work!",positive,tutorial,2026-07-20T07:48:28.789424,446
+"The thumbnail is misleading, this isn't what your explanation is about.",negative,product_review,2026-07-31T14:48:28.789424,4
+"the intro is honestly kind of confusing, could use more detail.",negative,music_video,2026-07-17T04:48:28.789424,4
+"your explanation keeps getting better every episode, love it.",positive,tutorial,2026-07-15T14:48:28.789424,459
+"Way too many ads for a 5 minute video, unsubscribing.",negative,product_review,2026-07-11T22:48:28.789424,19
+How long did this build take you to put together?,neutral,gaming,2026-07-12T22:48:28.789424,17
+"Wow, the pacing is next level, great work!",positive,vlog,2026-07-21T02:48:28.789424,79
+"Please stop dragging out this build, just get to the point.",negative,product_review,2026-07-12T14:48:28.789424,31
+"Not a fan of the recent changes to this series, felt rushed.",negative,tech_news,2026-07-15T18:48:28.789424,47
+The click-bait title got me but this tutorial doesn't deliver.,negative,vlog,2026-07-12T04:48:28.789424,17
+"This is exactly what I needed honestly, thank you so much for explaining this tutorial so clearly!",positive,music_video,2026-08-01T08:48:28.789424,371
+Is the pacing still relevant with the latest update?,neutral,product_review,2026-07-17T07:48:28.789424,20
+"Really disappointed tbh, expected way more detail on the new update.",negative,music_video,2026-07-14T08:48:28.789424,9
+"Really disappointed honestly, expected way more detail on the new update.",negative,tutorial,2026-07-12T02:48:28.789424,35
+"The thumbnail is misleading, this isn't what the intro is about.",negative,tutorial,2026-07-08T14:48:28.789424,47
+"Not a fan of the recent changes to your setup, felt rushed.",negative,product_review,2026-07-07T14:48:28.789424,41
+Is the intro still relevant with the latest update?,neutral,gaming,2026-07-19T16:48:28.789424,21
+"Wow, your setup is next level, great work!",positive,gaming,2026-07-24T13:48:28.789424,100
+"Finally a video that actually works tbh, thank you!",positive,tutorial,2026-07-16T22:48:28.789424,420
+What time does the next episode release?,neutral,vlog,2026-07-23T07:48:28.789424,12
+"This is exactly what I needed ngl, thank you so much for explaining your explanation so clearly!",positive,product_review,2026-08-03T04:48:28.789424,34
+How long did the pacing take you to put together?,neutral,product_review,2026-07-10T08:48:28.789424,36
+"the audio mix is honestly kind of confusing, could use more detail.",negative,tutorial,2026-07-20T11:48:28.789424,4
+"Wow, this build is next level tbh, great work!",positive,tutorial,2026-08-01T06:48:28.789424,292
+How long did your explanation take you to put together?,neutral,music_video,2026-08-04T22:48:28.789424,23
+Is this series still relevant with the latest update?,neutral,product_review,2026-08-04T14:48:28.789424,7
+Really appreciate how much effort went into this tutorial.,positive,vlog,2026-07-25T23:48:28.789424,18
+Is this build still relevant with the latest update?,neutral,gaming,2026-07-21T08:48:28.789424,39
+"Finally a video that actually works, thank you!",positive,vlog,2026-07-07T09:48:28.789424,153
+How long did the editing take you to put together?,neutral,gaming,2026-07-31T11:48:28.789424,45
