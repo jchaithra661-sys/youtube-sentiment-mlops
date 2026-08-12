@@ -1,0 +1,36 @@
+# Scheduled retraining — runs weekly and only promotes a new model if it's at
+# least as good as the current one (see scripts/retrain.py). This is the piece
+# that turns "I trained a model once" into "I built a system that keeps a model
+# up to date automatically." Commits the updated model back if promoted.
+name: Scheduled Retrain
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"  # every Monday at 03:00 UTC
+  workflow_dispatch: {}   # allows manual trigger from the Actions tab too
+
+jobs:
+  retrain:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Retrain and conditionally promote
+        run: python scripts/retrain.py
+
+      - name: Commit updated model if promoted
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add models/sentiment_model.joblib models/current_metrics.json
+          git diff --staged --quiet || git commit -m "chore: scheduled retrain [skip ci]"
+          git push
